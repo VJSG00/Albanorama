@@ -44,6 +44,7 @@ Esta función también está integrada en el bot de Discord: si el usuario expre
 ## 🎯 Objetivos alcanzados
 * ✅ Uso responsable de IA para filtrar ruido informativo y priorizar la utilidad.
 * ✅ Visualización clara de datos y predicciones.
+* ✅ Un porcentaje de aciertos en los análisis del precio de un 54%.
 * ✅ Plataforma educativa accesible y reproducible.
 * ✅ Integración de un bot funcional con comandos útiles y respuestas humanas.
 * ✅ Creación de una sección de ayuda para usuarios en situación de vulnerabilidad financiera.
@@ -62,5 +63,6 @@ Queremos ser transparentes sobre lo que no hicimos y por qué:
 * ❌ El bot tiene un límite de uso diario debido a restricciones de las APIs gratuitas.
 * ⚠️ Por ahora solo recomendamos los siguientes activos: oil, google, apple y nvidia.
 * ⚠️ Como los mercados no están abiertos los fines de semana, el comando $pre_apertura_usa busca las noticias del 4 y 5 de noviembre.
+* ⚠️ Para una mayor fiabilidad en las predicciones, es necesario realizar más pruebas.
 
 Estas decisiones nos permitieron mantener el proyecto abierto, accesible y reproducible, en línea con los principios del hackathon.
