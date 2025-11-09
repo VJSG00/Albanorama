@@ -5,6 +5,8 @@ Albanorama es una solución abierta que busca humanizar el análisis del mercado
 ## 🌐 Página web del proyecto
 https://teamfallout.byethost3.com/home/
 
+## 🎞️ Link al video de presentación en Youtube
+https://youtu.be/PcINKWhCdMk
 
 ## 🧠 ¿Qué es Albanorama?
 Albanorama es un conjunto de herramientas que permite visualizar, investigar y analizar el impacto de eventos económicos y políticos en activos como el petróleo y acciones de empresas como Nvidia, Apple y Google. Está compuesto por:
