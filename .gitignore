@@ -1,0 +1,21 @@
+# Directorio del entorno virtual de Python
+venv/
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos de sistema operativo y editores comunes
+.DS_Store
+*.swp
+.vscode/
+
+# ------------------------------
+# Archivos específicos de tu Bot
+# ------------------------------
+
+# Archivo que contendrá el token secreto del bot (¡CRUCIAL!)
+secretos.py
+config.ini
+.env
